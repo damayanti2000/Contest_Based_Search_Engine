@@ -1,0 +1,22 @@
+{
+  "name": "content-based-search",
+  "version": "1.0.0",
+  "description": "A site for searching research papers from Sci-Hub",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damayanti2000/Context_Based_Search_Engine.git"
+  },
+  "author": "ezioishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damayanti2000/Context_Based_Search_Engine/issues"
+  },
+  "homepage": "https://github.com/damayanti2000/Context_Based_Search_Engine#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
